@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556210810 source:/home/teka/Desktop/Trabalho AED/BancoAED/banco_AED/main.c
+	<stdio.h>
+	<stdlib.h>
+	"banco.h"
+
+1556210812 /home/teka/Desktop/Trabalho AED/BancoAED/banco_AED/banco.h
+
